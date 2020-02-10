@@ -1,0 +1,41 @@
+/*Top of code*/
+
+h1,h2,h3,h4,h5,h6 
+{
+padding: 1rem;
+
+}
+
+
+h1
+{
+color: #ff0000;
+background-color: whitesmoke;
+
+/*text stroke*/
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+
+}
+
+body
+{
+    background-color: skyblue;
+}
+
+
+
+/*Classes*/
+
+#purpleText 
+{
+    color: magenta;
+
+
+}
+
+.hotpink
+{
+    color: hotpink;
+
+}
